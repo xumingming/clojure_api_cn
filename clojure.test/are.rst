@@ -4,7 +4,7 @@ ________
 |  **宏**
 |  用途: **(are argv expr & args)**
 
-按照一个模板表达式来检查多个断言，clojure.template/do-template解释了什么是模板表达式。
+按照一个模板表达式来检查多个断言，``clojure.template/do-template``解释了什么是模板表达式。
 
 比如
 ::
