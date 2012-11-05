@@ -2,7 +2,8 @@ are
 ________
 
 |  **宏**
-|  用途: **(are argv expr & args)**
+|
+|  **用途: (are argv expr & args)**
 
 按照一个模板表达式来检查多个断言， ``clojure.template/do-template`` 解释了什么是模板表达式。
 
@@ -21,3 +22,5 @@ ________
 
 注意: 这会使得一些东西不能正常工作，比如行号。
 在Clojure 1.1里面添加的。
+`源码
+<https://github.com/clojure/clojure/blob/fa927fd942532fd1340d0e294a823e03c1ca9c89/src/clj/clojure/test.clj#L556>`_
